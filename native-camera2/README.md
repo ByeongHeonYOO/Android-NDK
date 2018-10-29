@@ -8,11 +8,7 @@ Pre-requisites
 
 Screenshots
 -----------
-
-A small extra view is toggled when a screen is touched.
+Two layouts were used to show captured images of each camera.
 
 ![screenshot](screenshot.png)
 
-Known Bugs
-----------
- * 
