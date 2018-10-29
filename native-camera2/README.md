@@ -4,7 +4,7 @@ This is an Android NDK camera preview sample code.
 
 Pre-requisites
 --------------
-- Android Studio 2.1+ with [NDK](https://developer.android.com/ndk/) (>=r12) bundle.
+- Android Studio v3.1.4 with [NDK](https://developer.android.com/ndk/) (>=r12) bundle.
 
 Screenshots
 -----------
